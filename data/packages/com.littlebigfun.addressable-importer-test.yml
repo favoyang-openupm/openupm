@@ -1,0 +1,11 @@
+name: com.littlebigfun.addressable-importer
+displayName: Unity Addressable Importer
+description: A rule based addressable asset importer
+repoUrl: 'https://github.com/favoyang/unity-addressable-importer'
+repoBranch: master
+packageFolder: ''
+fork: false
+licenseSpdxId: MIT
+licenseName: MIT License
+topics: []
+hunter: ''
